@@ -2,4 +2,4 @@
 
 This repo contains important timelines
 
-[main timline:](../blob/master/towns.md)
+[main timline:](../blob/main/towns.md)

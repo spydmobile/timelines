@@ -1,7 +1,6 @@
 
 # Timeline of my home towns
 
-
 ```MERMAID
 gantt
 dateFormat  YYYY-MM-DD
@@ -56,9 +55,4 @@ Engineer/Programmer - Dome Productions and Services   :active,  jobs, 1994-04-01
 Administrator/Programmer - Auroranet/Cascade/Webspinners   :active,  jobs, 1996-04-01, 2002-06-21
 Stay at home dad   :active,  jobs, 2001-09-17, 270d
 Operator - Locust Mowing   :active,  jobs, 2002-06-21, 2002-09-15
-
-
-
-```
-
 ```

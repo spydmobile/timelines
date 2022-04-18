@@ -7,6 +7,15 @@ dateFormat  YYYY-MM-DD
 title My Home Towns over the years
 excludes weekdays 2014-01-10
 
+<<<<<<< HEAD
+=======
+```MERMAID
+gantt
+dateFormat  YYYY-MM-DD
+title My Home Towns over the years
+excludes weekdays 2014-01-10
+
+>>>>>>> 8e838f291de35d509721b3f9d72106ea28da9529
 
 
 

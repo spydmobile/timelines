@@ -1,7 +1,7 @@
 
 # Timeline of my home towns
 
-```MERMAID
+```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title My Home Towns over the years
